@@ -1,0 +1,2 @@
+# Django-Morza
+Django project
